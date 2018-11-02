@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1486448783 source:d:\dropbox\data structures\heap\main.cpp
+	"main.hpp"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1486202346 d:\dropbox\data structures\heap\functions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.hpp"
+
+1486447851 d:\dropbox\data structures\heap\main.hpp
+
+1486448292 source:d:\dropbox\data structures\heap\functions.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"main.hpp"
+
+1486366735 source:d:\dropbox\data structures\heap\mergekarrays.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

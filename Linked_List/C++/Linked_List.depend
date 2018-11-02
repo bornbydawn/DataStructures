@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472385399 source:e:\data structures\linked_list\main.cpp
+	<iostream>
+	<stdlib.h>
+	<assert.h>
+
